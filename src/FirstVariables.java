@@ -18,6 +18,7 @@ public class FirstVariables {
         int bananas;
         bananas = 100;
         System.out.println(bananas);
+        System.out.println(bananas);
 
 
     }
